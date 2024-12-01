@@ -1,0 +1,17 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "mode": 0.1
+      },
+      "model": "paroxysm:item/crate_cracker_off"
+    },
+    {
+      "predicate": {
+        "mode": 0.2
+      },
+      "model": "paroxysm:item/crate_cracker_on"
+    }
+  ],
+  "model": "paroxysm:item/crate_cracker_off"
+}

@@ -1,0 +1,10 @@
+{
+  "item.paroxysm.crate_cracker": "Crate Cracker",
+
+  "item.paroxysm.bombard": "Bombard",
+
+  "item.paroxysm.bombard.contains": "Contains %d/%d explosive fuels.",
+  "item.paroxysm.bombard.type": "%s: %d",
+  "item.paroxysm.bombard.added": "Added %d of %s to the bundle.",
+  "item.paroxysm.bombard.full": "The bundle is full and cannot hold more fuel."
+}
